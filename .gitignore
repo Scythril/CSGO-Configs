@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!Autoexec.cfg
+!BotDM.cfg
+!BotDM2.cfg
+# etc...
+
+# ...even if they are in subdirectories
+!*/
